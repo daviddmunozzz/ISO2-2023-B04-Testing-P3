@@ -1,2 +1,2 @@
 # Testing-P3
-Repositorio asociado al testind del problema 3
+Repositorio asociado al testing del problema 3
