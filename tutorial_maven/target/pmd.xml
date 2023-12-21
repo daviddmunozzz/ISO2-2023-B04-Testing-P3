@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.55.0" timestamp="2023-12-21T11:46:10.011">
+<file name="C:\Users\Usuario\eclipse-workspace\tutorial_maven\src\main\java\org\javahispano\tutorial_maven\Main.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="40" rule="UnnecessaryImport" ruleset="Code Style" package="org.javahispano.tutorial_maven" class="Main" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'java.util.InputMismatchException'
+</violation>
+</file>
+<file name="C:\Users\Usuario\eclipse-workspace\tutorial_maven\src\main\java\org\javahispano\tutorial_maven\UIHandler.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="40" rule="UnnecessaryImport" ruleset="Code Style" package="org.javahispano.tutorial_maven" class="UIHandler" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'java.util.InputMismatchException'
+</violation>
+<violation beginline="8" endline="8" begincolumn="25" endcolumn="31" rule="UnusedPrivateField" ruleset="Best Practices" package="org.javahispano.tutorial_maven" class="UIHandler" variable="scanner" externalInfoUrl="https://pmd.github.io/pmd-6.55.0/pmd_rules_java_bestpractices.html#unusedprivatefield" priority="3">
+Avoid unused private fields such as 'scanner'.
+</violation>
+</file>
+</pmd>

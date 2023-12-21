@@ -1,0 +1,4 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+tutorial_maven,org.javahispano.tutorial_maven,FuerzaGravitatoriaCalculator,3,12,0,0,1,2,1,1,1,1
+tutorial_maven,org.javahispano.tutorial_maven,Main,68,0,0,0,18,0,3,0,3,0
+tutorial_maven,org.javahispano.tutorial_maven,UIHandler,3,22,0,2,1,6,1,4,1,3

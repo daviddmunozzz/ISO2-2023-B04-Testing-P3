@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.javahispano.tutorial_maven","l":"FuerzaGravitatoriaCalculator"},{"p":"org.javahispano.tutorial_maven","l":"Main"},{"p":"org.javahispano.tutorial_maven","l":"UIHandler"}];updateSearchResults();
